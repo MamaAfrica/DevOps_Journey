@@ -1,1 +1,5 @@
-Terraform/AWS_projects/.terraform
+Terraform/AWS_projects/.terraform*
+Terraform/Azure_projects/variables.tf
+Terraform/AWS_projects/terraform.tfstate*
+Terraform/Azure_projects/.terraform*
+Terraform/Azure_projects/tfplan
