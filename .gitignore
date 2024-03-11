@@ -3,3 +3,5 @@ Terraform/Azure_projects/variables.tf
 Terraform/AWS_projects/terraform.tfstate*
 Terraform/Azure_projects/.terraform*
 Terraform/Azure_projects/tfplan
+Terraform/Azure_projects/terraform.tfstate*
+e

@@ -1,3 +1,13 @@
+terraform {
+  required_providers {
+    opc = {
+      source = ""
+      version = ""
+    }
+  }
+}
+
+
 resource "opc_compute_ip_network" "test" {
   name                = "internal-network"
   description         = "Terraform Provisioned Internal Network"
